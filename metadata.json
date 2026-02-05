@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of VitalSync AI: Intelligent Fitness & AQI Tracker",
+  "description": "A comprehensive health and fitness companion that tracks daily activity, provides AI-driven personalized nutrition based on exertion, monitors for health anomalies, and offers survival strategies for poor air quality conditions.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
